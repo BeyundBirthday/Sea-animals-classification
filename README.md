@@ -4,3 +4,4 @@ The dataset contains different images of marine animals. Some images were taken 
 
 
 i used multiple pretrained models and compared them to my model as a refrence to its performance
+![water-monkey](https://github.com/user-attachments/assets/bdc74f05-ba0c-4718-baa9-e2cb9fab0291)
